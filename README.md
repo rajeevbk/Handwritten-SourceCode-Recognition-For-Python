@@ -23,4 +23,5 @@ The original dataset ( saved in _dataset/original-dataset_) presented by the stu
 ## Findings 
 
 The following table depicts the Character Error Rate (CER) and Word Error Rate (WER) evaluations. It was found that the Digital Ink Model outperforms the fine-tuned tesseract model which shows improvement after fine tuning from tess-best (base tesseract) 
-![image](https://user-images.githubusercontent.com/29557407/174557692-56376dc5-d492-4c76-8632-efc5406e2334.png)
+![image](https://user-images.githubusercontent.com/29557407/174560301-1302309b-1c3c-479d-84ce-7d79f12b2c62.png)
+
