@@ -15,6 +15,11 @@ https://arxiv.org/abs/1706.00069
 
 2. Evaluating Google's [Digital INK Recognition](https://developers.google.com/ml-kit/vision/digital-ink-recognition) Engine's performance on the same evaluation dataset. The android application that recognizes each writing sample is **CodeGraphyEvalDataset**
 
+To use the application
+1. Chose Writing sample
+2. Chose Writer
+3. Recognize
+
 ## The Evaluation Dataset
 
 The original dataset ( saved in _dataset/original-dataset_) presented by the study mentioned above is in the online-handwritting format ( x and y cordinate stroke data ). The author had to convert this data into individual images for each writing sample so it becomes compatible with Tesseract. The javascript code that does this is saved in _dataset/js-stroke2svg2jpeg_. The converted images can be found in _dataset/image-dataset_
