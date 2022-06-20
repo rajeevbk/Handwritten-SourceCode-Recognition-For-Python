@@ -17,8 +17,10 @@ https://arxiv.org/abs/1706.00069
 
 ## The Evaluation Dataset
 
-The original dataset ( saved in _dataset/original-dataset_) presented by the study mentioned above is in the online-handwritting format ( x and y cordinate stroke data ). The author had to convert this data into individual images for each writing sample so it becomes compatible with Tesseract. The javascript code that does this is saved in _dataset/convert-to-images_. The converted images can be found in _dataset/image-dataset_
+The original dataset ( saved in _dataset/original-dataset_) presented by the study mentioned above is in the online-handwritting format ( x and y cordinate stroke data ). The author had to convert this data into individual images for each writing sample so it becomes compatible with Tesseract. The javascript code that does this is saved in _dataset/js-stroke2svg2jpeg_. The converted images can be found in _dataset/image-dataset_
 
+The original stroke data had to be transformed so it can be easily loaded into the android application, that data is in the  _dataset/android-stroke-data_
+directory
 
 ## Findings 
 
