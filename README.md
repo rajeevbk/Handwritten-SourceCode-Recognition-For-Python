@@ -15,10 +15,10 @@ https://arxiv.org/abs/1706.00069
 
 2. Evaluating Google's [Digital INK Recognition](https://developers.google.com/ml-kit/vision/digital-ink-recognition) Engine's performance on the same evaluation dataset. The android application that recognizes each writing sample is **CodeGraphyEvalDataset**
 
-To use the application
-1. Chose Writing sample
-2. Chose Writer
-3. Recognize
+  To use the application
+  1. Chose Writing sample
+  2. Chose Writer
+  3. Recognize
 
 ## The Evaluation Dataset
 
